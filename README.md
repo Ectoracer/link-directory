@@ -11,7 +11,7 @@ This link directory aims to preserve as many `exoracer.page.link` and `exo.page.
 
 An external link directory repository allows for the independent adding and updating of new links while lessening these issues.
 
-All of the files in this repository are dual-licensed under:
+All of the files in this repository can be used under one of the below licenses:
 * the MIT license
 * the GNU Affero General Public License, either version 3 of the License, or (at your option) any later version
 
